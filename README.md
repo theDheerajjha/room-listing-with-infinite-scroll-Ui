@@ -1,4 +1,4 @@
-# room-listing-with-infinite-scroll-Ui
+# Responsive Room Listings with Optimized Media & Infinite Scroll
 
 This is a React app that shows a list of hotel rooms with infinite scroll.
 
