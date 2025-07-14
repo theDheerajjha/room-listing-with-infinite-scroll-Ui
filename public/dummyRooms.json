@@ -9,7 +9,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1015",
-        "video_url": "https://www.w3schools.com/html/movie.mp4"
+        "video_url": "https://www.w3schools.com/html/mov_bbb.mp4"
       },
       {
         "id": "variant-1-2",
@@ -62,7 +62,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1035",
-        "video_url": "https://filesamples.com/samples/video/mp4/sample_960x400_ocean_wave.mp4"
+        "video_url": "https://www.w3schools.com/html/mov_bbb.mp"
       },
       {
         "id": "variant-3-2",
