@@ -23,3 +23,4 @@ This is a React app that shows a list of hotel rooms with infinite scroll.
 
 **Note:**
 Because the original sample.json was very large, I created my own dummy data setup to mimic the same experience for development and testing.
+Due to CORS restrictions on some public video URLs, a few videos might not play in deployed url.
