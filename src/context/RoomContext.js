@@ -1,12 +1,10 @@
-import React, { useState, useEffect, useCallback } from 'react';
-import './App.css';
-import RoomList from './components/RoomList';
-import SkeletonLoader from './components/SkeletonLoader';
-import Error from './components/Error';
+import React, { createContext, useContext, useState, useEffect, useCallback } from 'react';
+
+const RoomContext = createContext();
 
 const PAGE_SIZE = 10;
 
-function App() {
+export const RoomProvider = ({ children }) => {
   const [rooms, setRooms] = useState([]);
   const [allRooms, setAllRooms] = useState([]);
   const [page, setPage] = useState(1);
@@ -14,7 +12,6 @@ function App() {
   const [error, setError] = useState(null);
   const [hasMore, setHasMore] = useState(true);
 
-  // Load all rooms from dummyRooms.json on mount
   useEffect(() => {
     setLoading(true);
     fetch('/dummyRooms.json')
@@ -35,7 +32,6 @@ function App() {
       });
   }, []);
 
-  // Infinite scroll load more
   const loadMore = useCallback(() => {
     if (loading || !hasMore) return;
     setLoading(true);
@@ -49,19 +45,10 @@ function App() {
   }, [loading, hasMore, page, allRooms]);
 
   return (
-    <div className="App">
-      <h1>Room Listing</h1>
-      <RoomList
-        rooms={rooms}
-        loadMore={loadMore}
-        hasMore={hasMore}
-        loading={loading}
-        error={error}
-      />
-      {loading && <SkeletonLoader />}
-      {error && <Error message={error} />}
-    </div>
+    <RoomContext.Provider value={{ rooms, loading, error, hasMore, loadMore }}>
+      {children}
+    </RoomContext.Provider>
   );
-}
+};
 
-export default App;
+export const useRoomContext = () => useContext(RoomContext); 
