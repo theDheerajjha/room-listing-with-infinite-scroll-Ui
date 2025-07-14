@@ -9,7 +9,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1015",
-        "video_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+        "video_url": "https://samplelib.com/mp4/sample-5s.mp4"
       },
       {
         "id": "variant-1-2",
@@ -17,7 +17,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1020",
         "room_images": [
-          "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?auto=format&fit=crop&w=400&q=80"
         ]
       },
       {
@@ -25,7 +25,7 @@
         "name": "King 3",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1025",
-        "video_url": "https://www.w3schools.com/html/movie.mp4"
+        "video_url": "https://www.w3schools.com/html/mov_bbb.mp4"
       }
     ]
   },
@@ -39,7 +39,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1025",
-        "video_url": "https://filesamples.com/samples/video/mp4/sample_640x360.mp4"
+        "video_url": "https://www.w3schools.com/html/mov_bbb.mp4"
       },
       {
         "id": "variant-2-2",
@@ -47,7 +47,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1030",
         "room_images": [
-          "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=400&q=80"
         ]
       }
     ]
@@ -62,7 +62,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1035",
-        "video_url": "https://www.w3schools.com/html/mov_bbb.mp"
+        "video_url": "https://samplelib.com/mp4/sample-10s.mp4"
       },
       {
         "id": "variant-3-2",
@@ -70,7 +70,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1040",
         "room_images": [
-          "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80"
         ]
       },
       {
@@ -78,7 +78,7 @@
         "name": "King 3",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1045",
-        "video_url": "https://filesamples.com/samples/video/mp4/sample_960x400_ocean_wave.mp4"
+        "video_url": "https://www.w3schools.com/html/movie.mp4"
       }
     ]
   },
@@ -92,7 +92,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1045",
-        "video_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+        "video_url": "https://samplelib.com/mp4/sample-5s.mp4"
       },
       {
         "id": "variant-4-2",
@@ -100,7 +100,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1050",
         "room_images": [
-          "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
         ]
       }
     ]
@@ -115,7 +115,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1055",
-        "video_url": "https://samplelib.com/mp4/sample-5s.mp4"
+        "video_url": "https://samplelib.com/mp4/sample-10s.mp4"
       },
       {
         "id": "variant-5-2",
@@ -123,7 +123,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1060",
         "room_images": [
-          "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=400&q=80"
         ]
       },
       {
@@ -131,7 +131,7 @@
         "name": "King 3",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1065",
-        "video_url": "https://filesamples.com/samples/video/mp4/sample_640x360.mp4"
+        "video_url": "https://samplelib.com/mp4/sample-20s.mp4"
       }
     ]
   },
@@ -145,7 +145,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1065",
-        "video_url": "https://filesamples.com/samples/video/mp4/sample_640x360.mp4"
+        "video_url": "https://samplelib.com/mp4/sample-5s.mp4"
       },
       {
         "id": "variant-6-2",
@@ -153,7 +153,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1070",
         "room_images": [
-          "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?auto=format&fit=crop&w=400&q=80"
         ]
       }
     ]
@@ -168,7 +168,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1075",
-        "video_url": "https://samplelib.com/mp4/sample-10s.mp4"
+        "video_url": "https://www.w3schools.com/html/movie.mp4"
       },
       {
         "id": "variant-7-2",
@@ -176,7 +176,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1080",
         "room_images": [
-          "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=400&q=80"
         ]
       },
       {
@@ -184,7 +184,7 @@
         "name": "King 3",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1085",
-        "video_url": "https://filesamples.com/samples/video/mp4/sample_960x400_ocean_wave.mp4"
+        "video_url": "https://www.w3schools.com/html/movie.mp4"
       }
     ]
   },
@@ -206,7 +206,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1090",
         "room_images": [
-          "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80"
         ]
       }
     ]
@@ -221,7 +221,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1095",
-        "video_url": "https://samplelib.com/mp4/sample-5s.mp4"
+        "video_url": "https://samplelib.com/mp4/sample-10s.mp4"
       },
       {
         "id": "variant-9-2",
@@ -237,7 +237,7 @@
         "name": "King 3",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1105",
-        "video_url": "https://samplelib.com/mp4/sample-10s.mp4"
+        "video_url": "https://www.w3schools.com/html/movie.mp4"
       }
     ]
   },
@@ -251,7 +251,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1105",
-        "video_url": "https://samplelib.com/mp4/sample-5s.mp4"
+        "video_url": "https://www.w3schools.com/html/mov_bbb.mp4"
       },
       {
         "id": "variant-10-2",
@@ -282,7 +282,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1120",
         "room_images": [
-          "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=400&q=80"
         ]
       },
       {
@@ -290,7 +290,7 @@
         "name": "King 3",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1125",
-        "video_url": "https://www.w3schools.com/html/movie.mp4"
+        "video_url": "https://samplelib.com/mp4/sample-10s.mp4"
       }
     ]
   },
@@ -304,7 +304,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1125",
-        "video_url": "https://samplelib.com/mp4/sample-10s.mp4"
+        "video_url": "https://www.w3schools.com/html/mov_bbb.mp4"
       },
       {
         "id": "variant-12-2",
@@ -312,7 +312,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1130",
         "room_images": [
-          "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=400&q=80"
         ]
       }
     ]
@@ -335,7 +335,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1140",
         "room_images": [
-          "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=400&q=80"
         ]
       },
       {
@@ -343,7 +343,7 @@
         "name": "King 3",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1145",
-        "video_url": "https://www.w3schools.com/html/movie.mp4"
+        "video_url": "https://samplelib.com/mp4/sample-5s.mp4"
       }
     ]
   },
@@ -357,7 +357,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1145",
-        "video_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+        "video_url": "https://www.w3schools.com/html/movie.mp4"
       },
       {
         "id": "variant-14-2",
@@ -365,7 +365,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1150",
         "room_images": [
-          "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
         ]
       }
     ]
@@ -380,7 +380,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1155",
-        "video_url": "https://filesamples.com/samples/video/mp4/sample_960x400_ocean_wave.mp4"
+        "video_url": "https://samplelib.com/mp4/sample-10s.mp4"
       },
       {
         "id": "variant-15-2",
@@ -388,7 +388,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1160",
         "room_images": [
-          "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=400&q=80"
         ]
       },
       {
@@ -396,7 +396,7 @@
         "name": "King 3",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1165",
-        "video_url": "https://www.w3schools.com/html/movie.mp4"
+        "video_url": "https://samplelib.com/mp4/sample-20s.mp4"
       }
     ]
   },
@@ -410,7 +410,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1165",
-        "video_url": "https://filesamples.com/samples/video/mp4/sample_960x400_ocean_wave.mp4"
+        "video_url": "https://samplelib.com/mp4/sample-5s.mp4"
       },
       {
         "id": "variant-16-2",
@@ -418,7 +418,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1170",
         "room_images": [
-          "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?auto=format&fit=crop&w=400&q=80"
         ]
       }
     ]
@@ -433,7 +433,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1175",
-        "video_url": "https://filesamples.com/samples/video/mp4/sample_640x360.mp4"
+        "video_url": "https://www.w3schools.com/html/mov_bbb.mp4"
       },
       {
         "id": "variant-17-2",
@@ -441,7 +441,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1180",
         "room_images": [
-          "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?auto=format&fit=crop&w=400&q=80"
         ]
       },
       {
@@ -449,7 +449,7 @@
         "name": "King 3",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1185",
-        "video_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+        "video_url": "https://www.w3schools.com/html/movie.mp4"
       }
     ]
   },
@@ -463,7 +463,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1185",
-        "video_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+        "video_url": "https://samplelib.com/mp4/sample-5s.mp4"
       },
       {
         "id": "variant-18-2",
@@ -471,7 +471,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1190",
         "room_images": [
-          "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=400&q=80"
         ]
       }
     ]
@@ -486,7 +486,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1195",
-        "video_url": "https://filesamples.com/samples/video/mp4/sample_960x400_ocean_wave.mp4"
+        "video_url": "https://www.w3schools.com/html/mov_bbb.mp4"
       },
       {
         "id": "variant-19-2",
@@ -502,7 +502,7 @@
         "name": "King 3",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1205",
-        "video_url": "https://samplelib.com/mp4/sample-10s.mp4"
+        "video_url": "https://samplelib.com/mp4/sample-20s.mp4"
       }
     ]
   },
@@ -516,7 +516,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1205",
-        "video_url": "https://filesamples.com/samples/video/mp4/sample_960x400_ocean_wave.mp4"
+        "video_url": "https://www.w3schools.com/html/mov_bbb.mp4"
       },
       {
         "id": "variant-20-2",
@@ -524,7 +524,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1210",
         "room_images": [
-          "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&w=400&q=80"
         ]
       }
     ]
@@ -539,7 +539,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1215",
-        "video_url": "https://filesamples.com/samples/video/mp4/sample_640x360.mp4"
+        "video_url": "https://samplelib.com/mp4/sample-10s.mp4"
       },
       {
         "id": "variant-21-2",
@@ -547,7 +547,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1220",
         "room_images": [
-          "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&w=400&q=80"
         ]
       },
       {
@@ -555,7 +555,7 @@
         "name": "King 3",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1225",
-        "video_url": "https://filesamples.com/samples/video/mp4/sample_960x400_ocean_wave.mp4"
+        "video_url": "https://www.w3schools.com/html/movie.mp4"
       }
     ]
   },
@@ -569,7 +569,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1225",
-        "video_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+        "video_url": "https://www.w3schools.com/html/movie.mp4"
       },
       {
         "id": "variant-22-2",
@@ -577,7 +577,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1230",
         "room_images": [
-          "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80"
         ]
       }
     ]
@@ -592,7 +592,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1235",
-        "video_url": "https://filesamples.com/samples/video/mp4/sample_960x400_ocean_wave.mp4"
+        "video_url": "https://www.w3schools.com/html/mov_bbb.mp4"
       },
       {
         "id": "variant-23-2",
@@ -600,7 +600,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1240",
         "room_images": [
-          "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=400&q=80"
         ]
       },
       {
@@ -608,7 +608,7 @@
         "name": "King 3",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1245",
-        "video_url": "https://filesamples.com/samples/video/mp4/sample_960x400_ocean_wave.mp4"
+        "video_url": "https://samplelib.com/mp4/sample-20s.mp4"
       }
     ]
   },
@@ -630,7 +630,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1250",
         "room_images": [
-          "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=400&q=80"
         ]
       }
     ]
@@ -645,7 +645,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1255",
-        "video_url": "https://samplelib.com/mp4/sample-10s.mp4"
+        "video_url": "https://www.w3schools.com/html/mov_bbb.mp4"
       },
       {
         "id": "variant-25-2",
@@ -653,7 +653,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1260",
         "room_images": [
-          "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
         ]
       },
       {
@@ -675,7 +675,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1265",
-        "video_url": "https://filesamples.com/samples/video/mp4/sample_640x360.mp4"
+        "video_url": "https://www.w3schools.com/html/movie.mp4"
       },
       {
         "id": "variant-26-2",
@@ -683,7 +683,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1270",
         "room_images": [
-          "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
         ]
       }
     ]
@@ -698,7 +698,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1275",
-        "video_url": "https://filesamples.com/samples/video/mp4/sample_960x400_ocean_wave.mp4"
+        "video_url": "https://www.w3schools.com/html/mov_bbb.mp4"
       },
       {
         "id": "variant-27-2",
@@ -706,7 +706,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1280",
         "room_images": [
-          "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80"
         ]
       },
       {
@@ -714,7 +714,7 @@
         "name": "King 3",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1285",
-        "video_url": "https://samplelib.com/mp4/sample-5s.mp4"
+        "video_url": "https://samplelib.com/mp4/sample-10s.mp4"
       }
     ]
   },
@@ -728,7 +728,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1285",
-        "video_url": "https://filesamples.com/samples/video/mp4/sample_960x400_ocean_wave.mp4"
+        "video_url": "https://samplelib.com/mp4/sample-10s.mp4"
       },
       {
         "id": "variant-28-2",
@@ -736,7 +736,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1290",
         "room_images": [
-          "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=400&q=80"
         ]
       }
     ]
@@ -751,7 +751,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1295",
-        "video_url": "https://samplelib.com/mp4/sample-10s.mp4"
+        "video_url": "https://samplelib.com/mp4/sample-20s.mp4"
       },
       {
         "id": "variant-29-2",
@@ -759,7 +759,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1300",
         "room_images": [
-          "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?auto=format&fit=crop&w=400&q=80"
         ]
       },
       {
@@ -767,7 +767,7 @@
         "name": "King 3",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1305",
-        "video_url": "https://www.w3schools.com/html/movie.mp4"
+        "video_url": "https://www.w3schools.com/html/mov_bbb.mp4"
       }
     ]
   },
@@ -789,7 +789,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1310",
         "room_images": [
-          "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&w=400&q=80"
         ]
       }
     ]
@@ -812,7 +812,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1320",
         "room_images": [
-          "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80"
         ]
       },
       {
@@ -820,7 +820,7 @@
         "name": "King 3",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1325",
-        "video_url": "https://www.w3schools.com/html/movie.mp4"
+        "video_url": "https://samplelib.com/mp4/sample-10s.mp4"
       }
     ]
   },
@@ -834,7 +834,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1325",
-        "video_url": "https://filesamples.com/samples/video/mp4/sample_960x400_ocean_wave.mp4"
+        "video_url": "https://www.w3schools.com/html/mov_bbb.mp4"
       },
       {
         "id": "variant-32-2",
@@ -842,7 +842,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1330",
         "room_images": [
-          "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=400&q=80"
         ]
       }
     ]
@@ -857,7 +857,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1335",
-        "video_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+        "video_url": "https://samplelib.com/mp4/sample-10s.mp4"
       },
       {
         "id": "variant-33-2",
@@ -865,7 +865,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1340",
         "room_images": [
-          "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80"
         ]
       },
       {
@@ -873,7 +873,7 @@
         "name": "King 3",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1345",
-        "video_url": "https://www.w3schools.com/html/movie.mp4"
+        "video_url": "https://samplelib.com/mp4/sample-5s.mp4"
       }
     ]
   },
@@ -887,7 +887,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1345",
-        "video_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+        "video_url": "https://samplelib.com/mp4/sample-10s.mp4"
       },
       {
         "id": "variant-34-2",
@@ -910,7 +910,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1355",
-        "video_url": "https://samplelib.com/mp4/sample-20s.mp4"
+        "video_url": "https://www.w3schools.com/html/movie.mp4"
       },
       {
         "id": "variant-35-2",
@@ -918,7 +918,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1360",
         "room_images": [
-          "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?auto=format&fit=crop&w=400&q=80"
         ]
       },
       {
@@ -926,7 +926,7 @@
         "name": "King 3",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1365",
-        "video_url": "https://samplelib.com/mp4/sample-20s.mp4"
+        "video_url": "https://www.w3schools.com/html/mov_bbb.mp4"
       }
     ]
   },
@@ -940,7 +940,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1365",
-        "video_url": "https://filesamples.com/samples/video/mp4/sample_960x400_ocean_wave.mp4"
+        "video_url": "https://samplelib.com/mp4/sample-10s.mp4"
       },
       {
         "id": "variant-36-2",
@@ -963,7 +963,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1375",
-        "video_url": "https://samplelib.com/mp4/sample-5s.mp4"
+        "video_url": "https://www.w3schools.com/html/movie.mp4"
       },
       {
         "id": "variant-37-2",
@@ -971,7 +971,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1380",
         "room_images": [
-          "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
         ]
       },
       {
@@ -979,7 +979,7 @@
         "name": "King 3",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1385",
-        "video_url": "https://samplelib.com/mp4/sample-5s.mp4"
+        "video_url": "https://www.w3schools.com/html/movie.mp4"
       }
     ]
   },
@@ -1001,7 +1001,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1390",
         "room_images": [
-          "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80"
         ]
       }
     ]
@@ -1024,7 +1024,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1400",
         "room_images": [
-          "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80"
         ]
       },
       {
@@ -1032,7 +1032,7 @@
         "name": "King 3",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1405",
-        "video_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+        "video_url": "https://samplelib.com/mp4/sample-20s.mp4"
       }
     ]
   },
@@ -1046,7 +1046,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1405",
-        "video_url": "https://samplelib.com/mp4/sample-20s.mp4"
+        "video_url": "https://samplelib.com/mp4/sample-10s.mp4"
       },
       {
         "id": "variant-40-2",
@@ -1054,7 +1054,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1410",
         "room_images": [
-          "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=400&q=80"
         ]
       }
     ]
@@ -1069,7 +1069,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1415",
-        "video_url": "https://filesamples.com/samples/video/mp4/sample_640x360.mp4"
+        "video_url": "https://samplelib.com/mp4/sample-10s.mp4"
       },
       {
         "id": "variant-41-2",
@@ -1077,7 +1077,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1420",
         "room_images": [
-          "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=400&q=80"
         ]
       },
       {
@@ -1085,7 +1085,7 @@
         "name": "King 3",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1425",
-        "video_url": "https://filesamples.com/samples/video/mp4/sample_640x360.mp4"
+        "video_url": "https://samplelib.com/mp4/sample-20s.mp4"
       }
     ]
   },
@@ -1099,7 +1099,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1425",
-        "video_url": "https://samplelib.com/mp4/sample-5s.mp4"
+        "video_url": "https://www.w3schools.com/html/mov_bbb.mp4"
       },
       {
         "id": "variant-42-2",
@@ -1107,7 +1107,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1430",
         "room_images": [
-          "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80"
         ]
       }
     ]
@@ -1122,7 +1122,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1435",
-        "video_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+        "video_url": "https://samplelib.com/mp4/sample-20s.mp4"
       },
       {
         "id": "variant-43-2",
@@ -1130,7 +1130,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1440",
         "room_images": [
-          "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=400&q=80"
         ]
       },
       {
@@ -1152,7 +1152,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1445",
-        "video_url": "https://filesamples.com/samples/video/mp4/sample_960x400_ocean_wave.mp4"
+        "video_url": "https://samplelib.com/mp4/sample-10s.mp4"
       },
       {
         "id": "variant-44-2",
@@ -1160,7 +1160,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1450",
         "room_images": [
-          "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=400&q=80"
         ]
       }
     ]
@@ -1175,7 +1175,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1455",
-        "video_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+        "video_url": "https://samplelib.com/mp4/sample-10s.mp4"
       },
       {
         "id": "variant-45-2",
@@ -1205,7 +1205,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1465",
-        "video_url": "https://filesamples.com/samples/video/mp4/sample_960x400_ocean_wave.mp4"
+        "video_url": "https://samplelib.com/mp4/sample-5s.mp4"
       },
       {
         "id": "variant-46-2",
@@ -1213,7 +1213,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1470",
         "room_images": [
-          "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=400&q=80"
         ]
       }
     ]
@@ -1228,7 +1228,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1475",
-        "video_url": "https://samplelib.com/mp4/sample-5s.mp4"
+        "video_url": "https://samplelib.com/mp4/sample-20s.mp4"
       },
       {
         "id": "variant-47-2",
@@ -1236,7 +1236,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1480",
         "room_images": [
-          "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=400&q=80"
         ]
       },
       {
@@ -1244,7 +1244,7 @@
         "name": "King 3",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1485",
-        "video_url": "https://samplelib.com/mp4/sample-20s.mp4"
+        "video_url": "https://samplelib.com/mp4/sample-5s.mp4"
       }
     ]
   },
@@ -1258,7 +1258,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1485",
-        "video_url": "https://samplelib.com/mp4/sample-5s.mp4"
+        "video_url": "https://www.w3schools.com/html/mov_bbb.mp4"
       },
       {
         "id": "variant-48-2",
@@ -1266,7 +1266,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1490",
         "room_images": [
-          "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&w=400&q=80"
         ]
       }
     ]
@@ -1289,7 +1289,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1500",
         "room_images": [
-          "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80"
         ]
       },
       {
@@ -1297,7 +1297,7 @@
         "name": "King 3",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1505",
-        "video_url": "https://filesamples.com/samples/video/mp4/sample_960x400_ocean_wave.mp4"
+        "video_url": "https://www.w3schools.com/html/mov_bbb.mp4"
       }
     ]
   },
@@ -1311,7 +1311,7 @@
         "name": "King 1",
         "description": "King bed, free WiFi, breakfast included.",
         "price": "RM1505",
-        "video_url": "https://samplelib.com/mp4/sample-20s.mp4"
+        "video_url": "https://samplelib.com/mp4/sample-5s.mp4"
       },
       {
         "id": "variant-50-2",
@@ -1319,7 +1319,7 @@
         "description": "Twin beds, free WiFi, breakfast included.",
         "price": "RM1510",
         "room_images": [
-          "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=400&q=80"
+          "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&w=400&q=80"
         ]
       }
     ]
