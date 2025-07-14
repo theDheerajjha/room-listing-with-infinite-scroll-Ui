@@ -15,10 +15,7 @@ const imageUrls = [
 
 const videoUrls = [
   "https://www.w3schools.com/html/mov_bbb.mp4",
-  "https://www.w3schools.com/html/movie.mp4",
-  "https://samplelib.com/mp4/sample-5s.mp4",
-  "https://samplelib.com/mp4/sample-10s.mp4",
-  "https://samplelib.com/mp4/sample-20s.mp4"
+  "https://www.w3schools.com/html/movie.mp4"
 ];
 
 function getRandom(arr) {
@@ -53,4 +50,4 @@ for (let i = 1; i <= 50; i++) {
 }
 
 fs.writeFileSync('public/dummyRooms.json', JSON.stringify(rooms, null, 2));
-console.log('Generated 50 rooms in public/dummyRooms.json with only W3Schools and Samplelib video URLs.'); 
+console.log('Generated 50 rooms in public/dummyRooms.json with only W3Schools video URLs.'); 
