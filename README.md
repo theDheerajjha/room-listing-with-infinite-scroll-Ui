@@ -2,6 +2,9 @@
 
 This is a React app that shows a list of hotel rooms with infinite scroll.
 
+<img width="934" height="470" alt="image" src="https://github.com/user-attachments/assets/7cd344c1-299b-4fb5-9ee6-c954326b3972" />
+
+
 **Features:**
 - Each room has variants with images or videos, price, and details
 - Videos play when visible and pause when not
